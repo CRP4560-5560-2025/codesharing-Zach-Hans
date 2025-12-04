@@ -13,6 +13,6 @@
     
 # How to run
   1. Open the toolbox in ArcGIS Pro. 
-  2. Run the tool and select CSV, GEoJSON, output folder, join field, 
+  2. Run the tool and select CSV, GeoJSON, output folder, join field, 
      display options, and graph PNG location. 
   3. Click OK to run. Outputs are saved in the selected folder. 
